@@ -7,8 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-
-       <h1>tes github, di branch terbaru yakni branch_1</h1>
-    
+    <h1>Ini Adalah Home UI Website di branch_1 update : 1</h1>
 </body>
 </html>
